@@ -1,6 +1,6 @@
 # Jogo-da-Forca
 
-Primeiro aplicativo (meu) feito para android.
+Primeiro contato com Java e Android.
 Fiz este aplicativo com a intenção de praticar a linguagem Java e se familiarizar com o Android Studio. Portanto, não me preocupei em deixar a interface gráfica bonita, já que estava só começando.
 
 Neste projeto criei 4 classes (Java).
