@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/NovoJogo"
+        android:title="@string/menu_NovoJogo" />
+
+    <item
+        android:id="@+id/Categorias"
+        android:title="@string/menu_Categorias" >
+
+        <menu>
+
+            <item
+                android:id="@+id/Animal"
+                android:title="@string/menu_Animal" />
+            <item
+                android:id="@+id/Fruta"
+                android:title="@string/menu_Fruta" />
+            <item
+                android:id="@+id/Pais"
+                android:title="@string/menu_Pais" />
+            <item
+                android:id="@+id/Banda"
+                android:title="@string/menu_Banda" />
+
+        </menu>
+
+     </item>
+
+</menu>

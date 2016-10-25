@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jogo da Forca</string>
+    <string name="txt_Vidas">Vidas: </string>
+    <string name="txt_Pontos">Pontos: </string>
+    <string name="btn_addLetra">Adicionar Letra</string>
+    <string name="btn_Palavra">Palavra completa</string>
+
+    <string name="menu_NovoJogo">Novo Jogo</string>
+    <string name="menu_Categorias">Categorias</string>
+    <string name="menu_Animal">Animal</string>
+    <string name="menu_Fruta">Fruta</string>
+    <string name="menu_Pais">País</string>
+    <string name="menu_Banda">Banda</string>
+
+</resources>
